@@ -1,4 +1,4 @@
-# SMART-WINDOW-VENTILATION-AND-AIR-PURIFICATION-SYSTEM-
+# SMART-WINDOW-VENTILATION-AND-AIR-PURIFICATION-SYSTEM-FOR ENGINEERING GROUP 23
 PROBLEM STATEMENT
 
 Indoor air pollution remains a significant challenge in homes, offices, classrooms, laboratories, and other enclosed environments due to the accumulation of carbon monoxide, airborne dust particles, and excessive indoor temperatures. Many buildings still rely on manually operated ventilation systems, where occupants must decide when to switch ventilation fans on or off or open windows. This approach is unreliable because pollutants such as carbon monoxide are colourless and odourless, while dust particles are often too small to be detected without specialized sensors. Consequently, poor indoor air quality may go unnoticed, exposing occupants to respiratory illnesses, allergic reactions, discomfort, reduced productivity, and, in severe cases, carbon monoxide poisoning.
